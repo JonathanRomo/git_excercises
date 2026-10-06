@@ -1,0 +1,8 @@
+Git add 
+  When Git saves a change on a repository makes Git also save the changes on that particular file
+  Ex:
+  git add <filename>
+
+  adds the file to the staging area
+  tells git to include de the file
+  git add * adds all the changed files
