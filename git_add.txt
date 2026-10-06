@@ -6,3 +6,14 @@ Git add
   adds the file to the staging area
   tells git to include de the file
   git add * adds all the changed files
+
+  When you click on clone or download you can get the link and use that link with gitclone
+  Ex:
+            git clone https://github.com/JonathanRomo/git_exercises/git_add.txt
+          then
+            *MAKES CHANGES*
+          git diff 
+            git diff shows the changes
+          git add
+            git add git_add.txt
+            now everything i changed is recorded to git
