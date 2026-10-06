@@ -1,0 +1,10 @@
+Git status
+
+Shows the current status of repository
+
+  Ex: On branch master
+      Your branch is ahead of 'file' by 1 commit.
+      (use "git push" to publish your local commits)
+  Translation: we have a file thats 1 version ahead of the one on the server
+
+Shows the changes that happenned in the branch
