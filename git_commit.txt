@@ -1,0 +1,12 @@
+Git commit
+
+This pushes my changes to the official version history
+Ex:
+  git commit -m "message"       saves the changes to repository as a new revision "a commit"
+  records a message
+
+You can combine the add step and the commit step like this example
+  git commmit -am "message"     adds and commits the in the same step
+
+Git also keeps the old version
+When we execute it shows the number of files changed and the number of lines changed
