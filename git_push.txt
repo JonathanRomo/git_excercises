@@ -2,5 +2,7 @@ Git push
 
 Takes the code and inserts it into the branch
 Sends commited changes to remote repository
-more explicitly, coud write 
-    git push origin master
+more explicitly, coud write
+Ex:
+    git push             origin master
+Once done shows the message of the changes that happened
