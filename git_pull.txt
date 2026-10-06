@@ -1,0 +1,11 @@
+Git pull
+
+The opposite of git push
+Gets the newer version from the server and aplies the changes to my older version
+
+Retrieves changes from remote repository
+Ex: 
+    First we select the directory 
+    Then
+    git pull
+    Shows the message of the latest changes from github
