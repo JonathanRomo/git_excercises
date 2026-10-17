@@ -1,0 +1,12 @@
+Git log
+
+Shows a history of commits and messages
+    Basic structures
+      Commit 342890432840923840923
+      Author: Pepito <pepito@hotmail.com>
+      Date: Fri Oct 16 21:36:30 2026 -0400
+    ##Comemment of the commit:: Remove a line
+      Commit 24820954385674895487
+      Author: Pepito <pepito@hotmail.com>
+      Date: Fri Oct 16 21:39:60 2026 +0000
+    Add a line
