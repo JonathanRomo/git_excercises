@@ -1,0 +1,10 @@
+Branching
+
+It allows to have to versions of the code running simoustaneantly
+Example:
+      The main branch has the perfect version working and i want to try a new feature
+      We can create a second branch to work on this secondary version and also use the 
+      git features
+      You can merge the second branch into the master branch
+Branch is a version of the repository
+Each branch has its own commit history and current version
