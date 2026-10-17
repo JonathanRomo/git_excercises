@@ -1,0 +1,14 @@
+Git branch
+
+Shows all branches of the code
+    git branch
+
+Create a branch with 
+    git branch <name>
+
+Switch to ("checkout") a new branch with
+      git checkout <branch_name>
+
+To combine both you use 
+      git checkout -b <branch_name>
+  It will create a new branch and move you into it
