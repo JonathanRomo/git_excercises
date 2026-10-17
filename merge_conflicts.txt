@@ -1,1 +1,7 @@
-
+Merge conflicts
+When two versions of the same repository can not be automatically merged
+The user needs to decide to get it resolved
+Typical message: 
+              Merge conflict in foo.ml Atomatic merge failed; fix conflicts and then commit the results.
+Git shows the lines it couldnt merge with a Hash
+Once the change is done you can commit again
