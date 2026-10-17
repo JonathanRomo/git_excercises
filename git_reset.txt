@@ -1,1 +1,9 @@
+Git reset
 
+## The <commit> being the hash of the commit (go see git log)
+Git reset --hard <commit>
+reverts code back to a previous commit
+
+git reset --hard origin/master
+reverts code back to remote repository version
+(The one I use the most cause I trust more the Github version than my computers own versions)
