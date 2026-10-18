@@ -6,3 +6,4 @@ example master branch is the main
 tests is the new features we tested we would use:
       git merge tests
 also in this example we use git checkout master to see the master branch
+also im this example if we are done with the tests banch we use git bran -D tests
