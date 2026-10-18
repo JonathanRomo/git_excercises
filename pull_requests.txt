@@ -1,0 +1,7 @@
+Pull requests
+
+This can happen on a proyect where you want to submit your work
+to a repository and first it has to go through an approval.
+
+In example a public repository, you have your fork and you want
+to contribute with your changes, so you send a pull request.
