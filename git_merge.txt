@@ -1,2 +1,7 @@
 Git merge
 
+git merge <bramch_name> merges the branch branch_name with current branch
+
+example master branch is the main
+tests is the new features we tested we would use:
+      git merge tests
