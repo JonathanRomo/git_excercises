@@ -1,0 +1,2 @@
+Git ignore file tells Git which files and folders not to track / upload
+  Examples of files to ignore: log files, temporary files, hidden files, personal files, OS/editor files, etc.
