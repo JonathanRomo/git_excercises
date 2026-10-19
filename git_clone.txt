@@ -1,0 +1,7 @@
+Git clone
+
+git clone <git url>
+makes a copy of an avaiblable repository from github
+
+you can choose from SSH url or HTTPS. For using the SSH there are tutorials on github 
+you have to select the folder to receive the repository first
