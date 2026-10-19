@@ -1,0 +1,17 @@
+Git config
+
+You can change the username and the email git will use for all the commands
+
+git config --list
+Shows how its rn
+
+git config user.name
+Shows the value
+
+There are three levels of configuration
+git config --system        all users
+git config --global        current user
+git config --local         current repo
+
+Full example
+git config --global user.email "jonathan@gmail.com"
