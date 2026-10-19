@@ -1,0 +1,23 @@
+Git tag
+
+Tags can be uses as labels or bookmarks
+In example you can mark versions of the releases of a program
+You can also tag an older commit by specifying its commit hash
+
+git tag
+Lists all the tags on the repository
+
+git tag <tag nmae>
+Creates a short tag
+
+git tag <tag name> <commit-hash>
+Tags a specific commit
+
+git -a <tag name> -m "message"
+Creates an annotated tag
+
+git show <tag name>
+Shows the tag details
+
+git tag -d <tag name>
+Deletes the tag
