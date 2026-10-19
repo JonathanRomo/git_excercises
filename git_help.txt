@@ -1,0 +1,13 @@
+Git help
+
+git help <command name>       and     git <command name> --help
+Shows the manual page for the command
+
+git <command name> -h
+Shows a quick list of options
+
+git help -all
+Lists all possible git commands
+
+git help -g
+List guides and concepts
